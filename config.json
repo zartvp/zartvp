@@ -2,7 +2,7 @@
   "success": true,
   "server_url": "https://bironemaster.com/config/zart/status.json",
   "domain":"CVST7uZmpeONy3YtjLoLT3atYxgCJAsqhU8QWgwgbj2tN6g64f8lYo0gGAPiEZon",
-  "backup_server_url": "https://raw.githubusercontent.com/birovp/biroconf/main/config.json",
+  "backup_server_url": "https://raw.githubusercontent.com/zartvp/zartvp/main/config.json",
 
   "latest_version": 3,
   "download_url": "https://bironemaster.com/zartvpn.apk",
